@@ -198,14 +198,14 @@ footer p {
 .mobilenav{
     display: none;
 }
-@media(max-width:964px){
+    @media(max-width:1360px){
     .projectdetail{
         flex-direction: column;
         height: auto;
     }
     .projectdetail .imgbox img{
         display: block;
-        width: 375px;
+        width: 1100px;
         height: auto;
         margin-bottom: 15px;
     }
