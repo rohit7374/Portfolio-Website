@@ -199,8 +199,18 @@ footer p {
     display: none;
 }
 @media(max-width:470px){
+    .projectdetail{
+        flex-direction: column;
+        height: auto;
+    }
     .projectdetail .imgbox img{
+        display: block;
         width: 300px;
+        height: auto;
+        margin-bottom: 15px;
+    }
+    html{
+        background-color: black;
     }
 }
     @media(max-width:1360px) and (min-width:470px){
@@ -210,7 +220,7 @@ footer p {
     }
     .projectdetail .imgbox img{
         display: block;
-        width: 1000px;
+        width: 700px;
         height: auto;
         margin-bottom: 15px;
     }
