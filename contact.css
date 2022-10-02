@@ -7,7 +7,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: auto;
+    height: 100vh;
     background: url(https://img.freepik.com/premium-photo/concept-contact-us-blank-wooden-cubes-square-dice-with-symbol-email-telephone-address-placed-wood-background_44868-1254.jpg?w=2000) center no-repeat;
     background-size: cover;
 }
@@ -73,6 +73,7 @@ button{
     border: 3px solid white;
     background-color: black;
     border-radius: 15px;
+    margin-bottom: 20px;
 }
 button:hover{
     width: 100px;
