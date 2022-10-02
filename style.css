@@ -159,7 +159,7 @@ h1 span{
 }
 .projectdetail .imgbox img{
     display: block;
-    width: fit-content;
+    width: 500px;
     height: 30vh;
 }
 .imgbox:hover{
