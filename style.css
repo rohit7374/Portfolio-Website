@@ -43,9 +43,9 @@ body{
     font-weight: bolder;
 }
 .navinfo{
-    /* display: flex;
+    display: flex;
     justify-content: center;
-    align-items: center; */
+    align-items: center;
     width: 45%;
     height:8vh ;
     background-color:transparent;
@@ -100,7 +100,7 @@ body{
     font-size: 60px;
 }
 h1 span{
-    color:darkred;
+    color:white;
     font-size: 65px;
 }
 /* .body .logo{
